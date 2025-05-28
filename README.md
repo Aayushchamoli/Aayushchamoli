@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Chamoli</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A tech enthusiast who dreams of designing smart, scalable, and efficient software. I love learning, coding, and growing every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushchamoli&label=Profile%20views&color=0e75b6&style=flat" alt="aayushchamoli" /> </p>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **frontend and backend development**
+- 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT**
 
 - 📫 How to reach me **chamoli2004@gmail.com**
 
