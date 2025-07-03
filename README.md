@@ -1,79 +1,105 @@
 <p align="center">
-  <!-- Replace below with your custom banner -->
-  <img src="https://your-image-url.com/banner.png" width="100%" alt="Banner" />
+  <img src="<!-- Your GIF or banner image link here -->" width="100%" alt="Welcome Banner" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Ayush Chamoli</h1>
-<p align="center"><em>A tech explorer, full-stack enthusiast, and lifelong learner 🚀</em></p>
+<h1 align="center">💫 Hi 👋, I'm Ayush Chamoli</h1>
+<p align="center"><strong>A passionate Software Developer | Front-End Enthusiast | Tech Explorer</strong></p>
 
----
-
-### 🧠 About Me:
-- 🎓 B.Tech Student at **Graphic Era Deemed to be University**
-- 🔭 Currently working on **full-stack development** projects
-- 🌱 Learning and building with **React**, **Node.js**, **MongoDB**, **TailwindCSS**, and **TypeScript**
-- 💬 Ask me about **OpenCV**, **Firebase**, or **Python ML libraries**
-- 📫 Reach me at: **chamoli2004@gmail.com**
-- 🌐 Portfolio: [aayushchamoli.github.io/portfolio](https://aayushchamoli.github.io/portfolio)
-- 📄 Resume: [My Resume](https://drive.google.com/file/d/1xCfH_3owW1ovj7mHKJ81j04CK21mruqg/view)
-
----
-
-### 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush chamoli)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayush.14_05)
-
----
-
-### 💻 Tech Stack:
-<div align="center">
-  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-</div>
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushchamoli&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushchamoli&layout=compact&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushchamoli&theme=radical" height="160"/>
-</div>
-
----
-
-### 🧩 Contribution Graph:
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushchamoli/aayushchamoli/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushchamoli/aayushchamoli/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/aayushchamoli/aayushchamoli/output/github-snake.svg" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=ayushchamoli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### ☕ Support Me:
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-coffee-id)
+### 📬 Contact Me
+
+- 📧 **Email:** chamoli2004@gmail.com  
+- 🤝 **Let’s Collaborate:** Projects, Hackathons, Startups or anything Tech 🚀  
 
 ---
+
+### 🧠 About Me
+
+- 🌱 I’m currently diving deeper into **Backend Development**
+- 🤔 Exploring tools like **Supabase**, **Firebase**, and **Next.js**
+- 💬 Ask me about **Open Source**, **Collaboration**, or **Tech Stack Advice**
+- ⚡ Fun fact: *I talk to my code like it's a teammate... and yes, it listens 😄*
+
+---
+
+### 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamoli2004@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushchamoli&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchamoli&theme=radical" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushchamoli&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushchamoli&theme=github_dark&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushchamoli&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushchamoli&theme=github_dark" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ayushchamoli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🐍 GitHub Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushchamoli/ayushchamoli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushchamoli/ayushchamoli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushchamoli/ayushchamoli/output/github-snake.svg" />
+</picture>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ayushchamoli&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Built with ❤️ by Ayush using GPRM ( https://gprm.itsvg.in ) -->
